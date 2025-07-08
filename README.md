@@ -1,8 +1,10 @@
 # Portfolio_Optimization_SP25
 
-Document needs update as of July 2025.
+TLDR: An experimental project aimed at developing a simplified, accessible model for mathematical portfolio optimization.
 
-Risk modeling, mathematical optimization, AMPL, Python, Colab, Excel, Matplotlib
+Key words: Risk modeling, mathematical optimization, AMPL, Python, Colab, Excel, Matplotlib
+
+Document needs more update as of July 2025.
 
 Phase 1 (April - May 2025): Original project with 3 contributors: Ramisa Tahsin Rahman, Mariam Fatima, Anh Pham.
 
