@@ -8,4 +8,4 @@ Phase 2 (beyond May 2025): Modifications to improve model's reliability and soph
 - Incorporate Backtesting: Use historical data (e.g., 2015–2020) to construct the portfolio and evaluate its performance on a later period (e.g., 2020–2025) to validate the model.
 - Assess Model Assumptions: Reflect on whether relying on recent 5-year trends is realistic and consider testing robustness under different market scenarios.
 - Strengthen Credibility: Use real-world benchmarking to build investor trust by demonstrating that the model produces reliable, believable results.
-main
+
