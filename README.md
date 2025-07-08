@@ -4,6 +4,8 @@ TLDR: An experimental project aimed at developing a simplified, accessible model
 
 Key words: Risk modeling, mathematical optimization, AMPL, Python, Colab, Excel, Matplotlib
 
+A summary paper detailing the project's methodology, outcomes, and future directions is in progress and will be made public following revisions. Additional contributors may be acknowledged if the revisions draw upon their contributions.
+
 Document needs more update as of July 2025.
 
 Phase 1 (April - May 2025): Original project with 3 contributors: Ramisa Tahsin Rahman, Mariam Fatima, Anh Pham.
