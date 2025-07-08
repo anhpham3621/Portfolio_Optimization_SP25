@@ -1,4 +1,7 @@
 # Portfolio_Optimization_SP25
+
+Document needs update as of July 2025.
+
 Risk modeling, mathematical optimization, AMPL, Python, Colab, Excel, Matplotlib
 
 Phase 1 (April - May 2025): Original project with 3 contributors: Ramisa Tahsin Rahman, Mariam Fatima, Anh Pham.
