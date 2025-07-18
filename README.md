@@ -1,4 +1,4 @@
-# Portfolio Optimization (SP25)
+# Portfolio Optimization (latest update: Jul 2025)
 <!-- # = H1, largest heading -->
 
 **Keywords**: Risk Modeling, Linear Programming, Mathematical Optimization, AMPL, Python, Colab, Excel, Matplotlib  
@@ -20,15 +20,10 @@ Enhancements proposed by Anh Pham include:
 - Benchmarking against real-world data to assess robustness and credibility  
 
 ---
+## Motivation and Objective
+Investors seek to maximize returns while minimizing risk. A high-risk stock is more volatile and susceptible to losses, whereas low-risk investments often yield lower returns. However, eliminating all risk is not ideal, as it usually limits potential gains. Therefore, investors aim to construct an optimal portfolio that meets or exceeds a target return while keeping risk as low as possible. Preferences may vary depending on individual financial goals, as some investors may accept higher risk in pursuit of higher returns.
 
-## Motivation
-
-In portfolio management, investors aim to achieve target returns while minimizing exposure to risk.  
-Total elimination of risk often limits potential returns, so the objective is to strike an optimal balance.
-
-This project applies mathematical optimization to construct a stock portfolio that minimizes overall risk while satisfying return and allocation constraints.
-
----
+=> We focus on applying optimization to build a stock portfolio minimizing risk, subject to constraints, while meeting a minimum target return
 
 ## Methodology and Key Results
 
